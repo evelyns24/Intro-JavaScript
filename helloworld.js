@@ -5,5 +5,3 @@ function hello()
 }
 
 exports.hello=hello;
-
-hello();
